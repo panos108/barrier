@@ -1,0 +1,5 @@
+x=[-1:1]
+
+for i=1:length(x)
+u(i)=quadprog(h,x(i),[],[],[],[],-1,1);
+end
