@@ -3,7 +3,7 @@ clear
 close all
  load data3
  x=[-.9:0.005:2];%x(2,1:500);
- u=sinh((x));%u(2:501);Auto trexei lala
+ u=sinh((x));%u(2:501);Auto trexei;lala
 % x1=x;
 % x=u;
 % u=x1;
